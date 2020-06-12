@@ -1,0 +1,28 @@
+body {
+  background: url(beans-coffee.jpg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  color: #fff;
+  margin-top: 20%;
+}
+
+img {
+  height: 150px;
+  width: 200px;
+}
+
+p {
+  color: #333;
+}
+
+.footer {
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding-top: 15px;
+}
